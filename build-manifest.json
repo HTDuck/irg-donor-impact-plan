@@ -1,0 +1,1249 @@
+{
+  "schemaVersion": 1,
+  "organization": "Integrated Response Group",
+  "publicationTitle": "Donor Impact Plan",
+  "edition": "Operational Funding Guide",
+  "publishedDate": "2026-08-28",
+  "canonicalOrigin": "https://htduck.github.io",
+  "basePath": "/irg-donor-impact-plan",
+  "routes": [
+    "/",
+    "/executive-summary/",
+    "/give/",
+    "/sections/",
+    "/sections/aviation/",
+    "/sections/command-and-control/",
+    "/sections/crisis-intelligence-management/",
+    "/sections/logistics/",
+    "/sections/medical/",
+    "/sections/public-relations/"
+  ],
+  "files": [
+    {
+      "path": "_.data",
+      "bytes": 5837,
+      "sha256": "1dfce99c72d12e2f825411cc561b6343a86a4caa9f73774c518e852183ba370d"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404/index.html",
+      "bytes": 14570,
+      "sha256": "29a8f5a4554852768049de79e3938320b287ccafeced2750b682b2e666f50e9e"
+    },
+    {
+      "path": "404.data",
+      "bytes": 4580,
+      "sha256": "ac2cbab23ebea83febfb26ac044a9b83d8cd63f7a3021cbb469e9dcb11a7e164"
+    },
+    {
+      "path": "404.html",
+      "bytes": 14570,
+      "sha256": "29a8f5a4554852768049de79e3938320b287ccafeced2750b682b2e666f50e9e"
+    },
+    {
+      "path": "assets/entry.client-DhRRqOmA.js",
+      "bytes": 185824,
+      "sha256": "883bdbc8443bd5472c0281a103c412c84eafe0737655883d622b834975329b7d"
+    },
+    {
+      "path": "assets/executive-summary-E5_tRCSo.js",
+      "bytes": 1272,
+      "sha256": "e00c4cf6a02e8b23de8b4074d7eff798858d96797e0f549f35627d8338cfc3f2"
+    },
+    {
+      "path": "assets/give-4gre6sVf.js",
+      "bytes": 1704,
+      "sha256": "652206b86719af81b019c56a8a60f6af7e452f46664e0d0c50c017adef31f035"
+    },
+    {
+      "path": "assets/guide-page-nav-xTymAkkE.js",
+      "bytes": 1545,
+      "sha256": "e06b04b45e00cb51b759fc9afdfde3ba86a79a9630882ea05ba1ade99448cf2e"
+    },
+    {
+      "path": "assets/home-Dvg-ZOK7.js",
+      "bytes": 1990,
+      "sha256": "8e301b6fb9147eb8d0eb66593fdcddb6818d6d298b35a9760e6a56a2c1ad909a"
+    },
+    {
+      "path": "assets/jsx-runtime-CWlMv0sx.js",
+      "bytes": 118452,
+      "sha256": "4a2e4575c24e8b01d29c9e59bd48892854726af691919357ab89ee5aa6a0538d"
+    },
+    {
+      "path": "assets/lib-CxnOw9b7.js",
+      "bytes": 10177,
+      "sha256": "5087df640c100d77b484f97f5b2b4aa83a29ae04c3be5b3c4f102817ea181d1e"
+    },
+    {
+      "path": "assets/manifest-fc112c02.js",
+      "bytes": 7395,
+      "sha256": "e77387ee207c48cbcbb7f06eb8b1b8e8ad591792f9753e55884a8f616c83cca9"
+    },
+    {
+      "path": "assets/metadata-Dnyor9DM.js",
+      "bytes": 1617,
+      "sha256": "a76aaa86cf876ae3b5e8486a2f377235b3d4deb6e40a3bed80dd3af35a804a71"
+    },
+    {
+      "path": "assets/not-found-D2er3pYT.js",
+      "bytes": 670,
+      "sha256": "8a3e7b8ab6f733a6fe735f7049b5592fbbeee2b6de8d7b4b154933c170e072d8"
+    },
+    {
+      "path": "assets/presentation-FRaA0mF9.js",
+      "bytes": 217,
+      "sha256": "d8c75659629ed5707535e384fa47453d89c3deda5bc238705ff7edc8c4a7d0da"
+    },
+    {
+      "path": "assets/root-CPXFqvr-.js",
+      "bytes": 6992,
+      "sha256": "46dcf7f64f07721f8b61a654e66c8bcf18c9e5ccdbe3d7f7d3fde6826375da53"
+    },
+    {
+      "path": "assets/root-DzUiXPG8.css",
+      "bytes": 18364,
+      "sha256": "1bbb60f445af0b25832d566be4db90b56fb302738f144a3cc60a7c2f1de9f9cb"
+    },
+    {
+      "path": "assets/section-card-rs3MV217.js",
+      "bytes": 644,
+      "sha256": "4df6e577bf2cb395ef6b5e3cc570098b95af336657bc6ccc9f10599a39695653"
+    },
+    {
+      "path": "assets/section-DxnWGXeY.js",
+      "bytes": 5589,
+      "sha256": "394905edc3d78aeb2a151dce1901e35d6d8b9d8a07ab4696cfd55db42de3f420"
+    },
+    {
+      "path": "assets/sections-jAgAvnDw.js",
+      "bytes": 1045,
+      "sha256": "76a96e8231bd1640bb842384329fd1b222d25debf18f9e3f214af1d35773090e"
+    },
+    {
+      "path": "brand/irg-logo-horizontal.svg",
+      "bytes": 13159,
+      "sha256": "4ac7a337a38b0b7a76c8290725bc2600f715222806a13e812159c6adc5673682"
+    },
+    {
+      "path": "brand/irg-mark.svg",
+      "bytes": 1563,
+      "sha256": "507132a01c51f494b62064bb0db289500a46e7e902fbed8f2b9b2881b0e82c82"
+    },
+    {
+      "path": "executive-summary/_.data",
+      "bytes": 10032,
+      "sha256": "1f466457ea0016628afed883b88d2c0d40ecbe14daeebb80e101749eb0b273df"
+    },
+    {
+      "path": "executive-summary/index.html",
+      "bytes": 28157,
+      "sha256": "9625e9db4789813ca9a4fd159360f98f9b3caecb4747650aa123f032bbd5806c"
+    },
+    {
+      "path": "executive-summary.data",
+      "bytes": 10032,
+      "sha256": "1f466457ea0016628afed883b88d2c0d40ecbe14daeebb80e101749eb0b273df"
+    },
+    {
+      "path": "give/_.data",
+      "bytes": 5502,
+      "sha256": "d6d3d3d6ed24530a6b03598f2edc767d4de3ff8e7017c235b02bc48c68bbf0bd"
+    },
+    {
+      "path": "give/index.html",
+      "bytes": 22432,
+      "sha256": "0d0e655b4b4d90dcd6e130e57b7b5ddd40e6949f28df3ac26e6dfa6731b43402"
+    },
+    {
+      "path": "give.data",
+      "bytes": 5502,
+      "sha256": "d6d3d3d6ed24530a6b03598f2edc767d4de3ff8e7017c235b02bc48c68bbf0bd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22119,
+      "sha256": "06a57e7cb47a1ca401e47f2a5f3d6d5cf36919856e20bfb3b3c72517e161a2dc"
+    },
+    {
+      "path": "llms.txt",
+      "bytes": 3100,
+      "sha256": "5bd45ab83faa64494150efc9361bbf54eccaa4058ae797e33314778e493651ec"
+    },
+    {
+      "path": "markdown/executive-summary.md",
+      "bytes": 2690,
+      "sha256": "df84da428e3e27824bba303536ffa268e7482ce36bf8d41c98982ab29681307a"
+    },
+    {
+      "path": "markdown/give.md",
+      "bytes": 1048,
+      "sha256": "352d4358b70b4e75b2f7355a36cfbc26811ffee07f552c1b0949ebad971c0e10"
+    },
+    {
+      "path": "markdown/index.md",
+      "bytes": 1546,
+      "sha256": "dc9a605f550a1c6831ed78c4589cb82dcc8e0569edbd0c70c335636af70922a3"
+    },
+    {
+      "path": "markdown/sections/aviation.md",
+      "bytes": 1618,
+      "sha256": "25aeaaf78db428d66bf367882d450bc916f3b0d0102ea5e394a820996916faaa"
+    },
+    {
+      "path": "markdown/sections/command-and-control.md",
+      "bytes": 1578,
+      "sha256": "1a16f6b8941468c81cd848e4bf1d6fec9ed21c75973b53d6a5d65e3f87c6db87"
+    },
+    {
+      "path": "markdown/sections/crisis-intelligence-management.md",
+      "bytes": 1576,
+      "sha256": "685c01a4276804073b188e73c4a2d612cb06b9b374345c467e5a551b4bad7efb"
+    },
+    {
+      "path": "markdown/sections/logistics.md",
+      "bytes": 1610,
+      "sha256": "3f43277f333dd6d7e541de31b649af96432f79b60e602a7a83d2f0be214bb870"
+    },
+    {
+      "path": "markdown/sections/medical.md",
+      "bytes": 1429,
+      "sha256": "5aae6c39b679bf3bed3c5832f542ed9367fca2f94fd9bacf8402ef6e314074ef"
+    },
+    {
+      "path": "markdown/sections/public-relations.md",
+      "bytes": 1346,
+      "sha256": "5d80a889b55bfe7895666c043d2de28cab003a2a6f9bed8d45e6cf1a015e72b2"
+    },
+    {
+      "path": "markdown/sections.md",
+      "bytes": 1097,
+      "sha256": "227cb564071027a3960b4ce7348fa4263821182b145193dbda92fb84aa70beda"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1200.avif",
+      "bytes": 44386,
+      "sha256": "a1074cac36d8f5f045fa82fdb7c1ead81ef499c107cb79ad68a993d38043bce5"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1200.jpg",
+      "bytes": 138215,
+      "sha256": "494d6d71eea64494473d4d72e0a52de5d9a1e8b25dd45f91661bcce8f572e4a5"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1200.webp",
+      "bytes": 86906,
+      "sha256": "e0c518759dff4f62d54f8264aba52ad29134ef91a1e5384c20b1b859d060186b"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1208.avif",
+      "bytes": 44109,
+      "sha256": "78ede4a27ac3ef05bec1905e1a7a94550abc667e902c5ec0fc1dd782bcca05d6"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1208.jpg",
+      "bytes": 139929,
+      "sha256": "ca942b64a52eb158fee79a637eee14838ad3f56b53b416152bbe9bbcbb97c9e5"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1208.webp",
+      "bytes": 88266,
+      "sha256": "97acdd72a231b0ff8fbd93bacd9429f52dde8283a887726149c75ef85b4930dd"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-480.avif",
+      "bytes": 16685,
+      "sha256": "304ff32f1d147ac25c67e773ae56096d058b024b15f69a2973bc9dfaa0644f3d"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-480.jpg",
+      "bytes": 39802,
+      "sha256": "268ce6eec08129f27ecbd4b4a87457dfc57a890863e9f22af013a7a21fce9395"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-480.webp",
+      "bytes": 31982,
+      "sha256": "bd50a37554c1a710777ed440f0a01aa46bfc3b6cd8e48e6f5ebd17c539416434"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-800.avif",
+      "bytes": 30492,
+      "sha256": "87d5cafbff85989ea87d5c671b6b8d927d1251a43bed7b4c55b15eb3df5088f5"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-800.jpg",
+      "bytes": 79764,
+      "sha256": "8497e423a0532dd6d36f00d28832339277de2d9ea7838cb79946125d7fbd5ce0"
+    },
+    {
+      "path": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-800.webp",
+      "bytes": 55338,
+      "sha256": "1fbc47a3197d462f5f94978825d00db52ae4f7e18e20e83116f320df5fa19dd3"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-1200.avif",
+      "bytes": 74625,
+      "sha256": "dde7800ee485d0285f3f5c35fc2e9fe39de6b29700e5a8729e40fc19a70fc9f8"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-1200.jpg",
+      "bytes": 184907,
+      "sha256": "6e7076c4749ea4b9d718eddc3b9ad00a22d846dbddbc99d1f3c02856560002fb"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-1200.webp",
+      "bytes": 130010,
+      "sha256": "d108fc82c5e9bd3ea58044cad04de84cd31271803ff2145850e9540f8ccb661d"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-1222.avif",
+      "bytes": 76977,
+      "sha256": "def23ff6bf1da5959d477752ad0a4cbf892839cacacb2108e2d875c76ba1a12f"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-1222.jpg",
+      "bytes": 188144,
+      "sha256": "ce87f4c7aa9268d52e60fdd4b2581f9082044700fbc286808269ca56f06c5012"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-1222.webp",
+      "bytes": 136340,
+      "sha256": "1b9919209079a27460a1b259fc4bf6441f75c00b0c8284bd440b11bc400d80cd"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-480.avif",
+      "bytes": 21894,
+      "sha256": "baad65ceeaced1d161666eeb79f0e72ef8af384f72d03d7b850211b93aefb2b9"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-480.jpg",
+      "bytes": 45107,
+      "sha256": "c7af2a9f98c9815ab427fe61e2bd63819f19545ded7e3cbd3c27869e82fd14ae"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-480.webp",
+      "bytes": 40930,
+      "sha256": "c8fb1c1ebb8d2c0015e8b9c9295cd6a3787fdc7a88b9351f315068d732af3d2c"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-800.avif",
+      "bytes": 45611,
+      "sha256": "2a090326b2f5d68a4471eb4f67875d79c3711d139cf2db53c4734c0edde94b49"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-800.jpg",
+      "bytes": 101935,
+      "sha256": "da62a303b2ab2528a9f56b1489d0d32306392c9eda1a482148accff966ff9f38"
+    },
+    {
+      "path": "media/aviation-erosion-assessment/aviation-erosion-assessment-800.webp",
+      "bytes": 81848,
+      "sha256": "2b5ba208d1d234631e5eaa60915d3b89763f97d13fdca7204fe11c2cdac0e2ef"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1200.avif",
+      "bytes": 67480,
+      "sha256": "67c5ccba0a9b18f6b124141a77ecfcebeb7a631e9fc826d9e288dfbb92762d3f"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1200.jpg",
+      "bytes": 164745,
+      "sha256": "1c72a8414c8dd8c5a7457b495f4ca253399324cf9c02536ffdeb37909db8d54a"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1200.webp",
+      "bytes": 111272,
+      "sha256": "b98ff0c2bdb9ef816b8848a016909017cfdc24f01c729080c533160a0cf71b27"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1244.avif",
+      "bytes": 71205,
+      "sha256": "cb53ac2b88621d5919fc4ff1ddafd4352d4a7653de914fc483fa408abf9b0e23"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1244.jpg",
+      "bytes": 172469,
+      "sha256": "85d751e77aed6bc6b993da4eb3a76b7aff8993947dfb72ce83a7284fbb27ab4d"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1244.webp",
+      "bytes": 116406,
+      "sha256": "252bca6690326d94a0c975c2f64d8d765d1f82a9fce5bd4397ae32c7f6735d45"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-480.avif",
+      "bytes": 19103,
+      "sha256": "b194ed092aa1208ff61357da47ba33e76d03d8e611392053b7b0885407f585b1"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-480.jpg",
+      "bytes": 42485,
+      "sha256": "33e9889d2cda63bb8080e1cb10b854a73db2f9e1e867b06f5bfd0383d7d51d9b"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-480.webp",
+      "bytes": 35748,
+      "sha256": "8e9b6931bdc56d31420cdee9fc34b0c3b0ee07242d9043b500010bd36d8f2807"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-800.avif",
+      "bytes": 39851,
+      "sha256": "1526e172b6e051a7e1525f4328f75ef94db86b7dfb9b4deb47e32da3775809d4"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-800.jpg",
+      "bytes": 91795,
+      "sha256": "36a0cff9c48c574b2eddcba5359878f9d4ec09b392869af5cbc8c8b804b551a1"
+    },
+    {
+      "path": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-800.webp",
+      "bytes": 68882,
+      "sha256": "fe24eba4c917b1900e70e7972163a9c85116276a8756f915f75167fe296d865f"
+    },
+    {
+      "path": "media/command-control-canopy-gathering/command-control-canopy-gathering-1169.avif",
+      "bytes": 48429,
+      "sha256": "b6348101805ad365392316ac0942e7d7ff420daf35098d428092f96e83f31c65"
+    },
+    {
+      "path": "media/command-control-canopy-gathering/command-control-canopy-gathering-1169.jpg",
+      "bytes": 128318,
+      "sha256": "c1610f11311aa31eb28c416ca4cdfe499f4e6b3a29cc53e6e779391360f9f113"
+    },
+    {
+      "path": "media/command-control-canopy-gathering/command-control-canopy-gathering-1169.webp",
+      "bytes": 72882,
+      "sha256": "4bc620a9ecbacc5a3558c263568cf2406cf896d1b8ec6c955d0c0a097bb01984"
+    },
+    {
+      "path": "media/command-control-canopy-gathering/command-control-canopy-gathering-480.avif",
+      "bytes": 15003,
+      "sha256": "15e00e3d0ecfc0f553a1569f587e1f61545edbcfa73d1886fb55b3e82417fd16"
+    },
+    {
+      "path": "media/command-control-canopy-gathering/command-control-canopy-gathering-480.jpg",
+      "bytes": 36306,
+      "sha256": "0ca868dcaa864b43bde50f86b7f6478e7f830103a29ac5e261b265fac80d53e7"
+    },
+    {
+      "path": "media/command-control-canopy-gathering/command-control-canopy-gathering-480.webp",
+      "bytes": 25432,
+      "sha256": "2aa5e3ba12bcb833365bbddd08e1d279c22653a88a4b2adb5d50e736ba3e3ccb"
+    },
+    {
+      "path": "media/command-control-canopy-gathering/command-control-canopy-gathering-800.avif",
+      "bytes": 29941,
+      "sha256": "30384752bb1ad80ce6645ec03da66cdd095ece51ad8ae4f232dc02596d8302da"
+    },
+    {
+      "path": "media/command-control-canopy-gathering/command-control-canopy-gathering-800.jpg",
+      "bytes": 75069,
+      "sha256": "be22d45bd8b397fa0660ac0aa08d1f772d77c50b9d05117f9837934ecfc9aea2"
+    },
+    {
+      "path": "media/command-control-canopy-gathering/command-control-canopy-gathering-800.webp",
+      "bytes": 46154,
+      "sha256": "7f2ea9fea753f066e56af3a06e8caee10a2849b6d61b91786958207fc2445f57"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-1200.avif",
+      "bytes": 43660,
+      "sha256": "6fec02cd842acca5c388b39a2d9211f1596b3c10db8aa988a018cae891b733ba"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-1200.jpg",
+      "bytes": 124259,
+      "sha256": "03371686febd80d07634cda9cdc6dcb0aa7ff4ca08d6fec12440aa3578dd739c"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-1200.webp",
+      "bytes": 66996,
+      "sha256": "eb82203c0812f086f4f5c6fb5ad5135b1cb9040023ef78be390732ea0d047c5f"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-1226.avif",
+      "bytes": 44970,
+      "sha256": "ec1b4578a3576d71dd8de25220fa4385c460d879dc7b89fcf4a02b7ed2f0935a"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-1226.jpg",
+      "bytes": 129653,
+      "sha256": "fa1f74f1592618afb4cba144a917b73cda24271e698772375cd0c9b4a639350b"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-1226.webp",
+      "bytes": 69022,
+      "sha256": "2756661b456f819dc76db3bf0049725e3e11a15e93c003a84a132fed6e8529b9"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-480.avif",
+      "bytes": 13967,
+      "sha256": "d57b19aacefddc2f266dcb49fa6687748063528d9de29bcb5ac22c76b86bc2af"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-480.jpg",
+      "bytes": 35021,
+      "sha256": "200adb0cee3b3a5147a70747b5a58448fd19246ed108fd544bd8b3dce8232fef"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-480.webp",
+      "bytes": 23936,
+      "sha256": "f37ec931d7092a8f06a9751a7ac8ec63c2bcff22ac1cf65b85cd42364dc1262e"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-800.avif",
+      "bytes": 27008,
+      "sha256": "034679c26b9d44e05bce475b2150b17ea66eb92fe0e6d2f22f34b3e68e6bb659"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-800.jpg",
+      "bytes": 71180,
+      "sha256": "ab657a880bb6f1ad71a08b47058048d16fe47b2331b6418bf8c04199d4513d27"
+    },
+    {
+      "path": "media/command-control-coordination-room/command-control-coordination-room-800.webp",
+      "bytes": 41882,
+      "sha256": "cea4038d4c0b4616d71e93fc97c432d83d4f4ea970637349d1e5d104b02544c2"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-1200.avif",
+      "bytes": 42541,
+      "sha256": "583559b30853964b6560b1713baab1c2bc7548fbf69b640816645e1b8eb8a94d"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-1200.jpg",
+      "bytes": 120015,
+      "sha256": "e66aec87bdd35d4f405effdc121b45b37147e20783cee608619fa66d632fddf7"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-1200.webp",
+      "bytes": 66612,
+      "sha256": "f6a578a36e81d4bbe1cb7c57c69b260bfd7134ac2e1edcb69d2afd23685a3399"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-1280.avif",
+      "bytes": 46599,
+      "sha256": "94512c9be8989c86583345a6a76ee571666af767e8720fc480dcb219fb14a40f"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-1280.jpg",
+      "bytes": 133739,
+      "sha256": "11807aad59715d36f8c49894dd2129e4774fbe5044ad8b4ba31d42b119545b88"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-1280.webp",
+      "bytes": 72316,
+      "sha256": "23327d91b10aaba1b1a48ab2a3535d7ab6f8d160171a6d899698952add678864"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-480.avif",
+      "bytes": 13923,
+      "sha256": "8bb2f0df57790060de54351494cfe261a83040f0ee6895ccf92e524c8603fa50"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-480.jpg",
+      "bytes": 34479,
+      "sha256": "a7bf0a470ab4a02c950cfa16f93e52bc92665a0cb6268e65fdb95f2216f5c913"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-480.webp",
+      "bytes": 24604,
+      "sha256": "0128a7bc83c911ea716cc67d216fdd571778e33f6225d739fc9b497b1fea2aa2"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-800.avif",
+      "bytes": 26167,
+      "sha256": "2c0df624aec82b01d468096e7c46b039ce193e4d4a70c4d27956bf45321802df"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-800.jpg",
+      "bytes": 69089,
+      "sha256": "17c2958c94645feff25df0823d1d985267acbb922889c710a1fec1fd1fe0ab3f"
+    },
+    {
+      "path": "media/command-control-operational-briefing/command-control-operational-briefing-800.webp",
+      "bytes": 42742,
+      "sha256": "3853dfc419a34e40cda04d6707bd27a4ca10cc6f16985169c03c538a71170a06"
+    },
+    {
+      "path": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-1184.avif",
+      "bytes": 85922,
+      "sha256": "8bf6f7ca9bfe5cc6e5e5460f1c128bede0080a8a6ea9eb5c69c83e1f3ad465a7"
+    },
+    {
+      "path": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-1184.jpg",
+      "bytes": 204119,
+      "sha256": "3747b9822945eb1b9ec31a50cce0443fe508123b95bbc032df1fef42434be523"
+    },
+    {
+      "path": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-1184.webp",
+      "bytes": 176342,
+      "sha256": "498be592706c7c20f630dee3daa6097dc558189bc7a169da9b9bf6615049a929"
+    },
+    {
+      "path": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-480.avif",
+      "bytes": 24706,
+      "sha256": "6ebca4686d8d5006abe951ee3b60cfd58ecc55b3609108bca7785c79985b06a7"
+    },
+    {
+      "path": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-480.jpg",
+      "bytes": 49925,
+      "sha256": "95559b63f28f1530a4572682e3bb77124f71f86970113d8a9848a4bc31139d77"
+    },
+    {
+      "path": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-480.webp",
+      "bytes": 49686,
+      "sha256": "a76ce5665a94240ee5d72f8988701e2d71e0e9ac5651b31b1ae42673f25442a0"
+    },
+    {
+      "path": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-800.avif",
+      "bytes": 51605,
+      "sha256": "d3d2a8ca207462eefba64a5e796ba1fc7c80dd3d6ba2e4e0a6c8636a3b00bfbb"
+    },
+    {
+      "path": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-800.jpg",
+      "bytes": 114759,
+      "sha256": "3ae3a529c538c20482955a8070b1b176430f37788c9258698ba71c0312c6381c"
+    },
+    {
+      "path": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-800.webp",
+      "bytes": 104484,
+      "sha256": "5b31e88c59418bde1c34a510fb08c01a137222d9d1c5eb5b22b9bc70222f6443"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1200.avif",
+      "bytes": 60925,
+      "sha256": "e06e6622bd731a5b71c43c1de97a9f1427bed6d2b05929b93f2e7c7209c80048"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1200.jpg",
+      "bytes": 136316,
+      "sha256": "c06825e3e2ed90ad6dfe22cf0ce52140a747a344fa9daf60a081f9d20a2ce855"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1200.webp",
+      "bytes": 92070,
+      "sha256": "9221a9c000886195f23ec50c978e99368ca5d6201f5bbd2d208d9236dec2e6a0"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1270.avif",
+      "bytes": 66846,
+      "sha256": "f75c34d6eb5987612490e3d68f96acc38f4850d3e114cdb8b5d134e157f0bcb5"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1270.jpg",
+      "bytes": 146689,
+      "sha256": "fadeaf120ff73d3bdb9e5bd4ff1cfcda62c5812a26ca9b22f9f61006d0a3ba57"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1270.webp",
+      "bytes": 103910,
+      "sha256": "f3af4782bbc77926a09c95f175418876b0b301b7d0eeca9fa0a74510144c5945"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-480.avif",
+      "bytes": 14271,
+      "sha256": "c9e664d682cd6cffa5ba3d173de3a49a12db6328debb7fe9bbde05bfa9b82293"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-480.jpg",
+      "bytes": 29841,
+      "sha256": "75c6a66d536ec05dafbba3e3088387ba7f7dd3e363aa8f8894f1bf9afe363e0b"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-480.webp",
+      "bytes": 24042,
+      "sha256": "06b5b2063325d69391bcb0270565f17010d1ba97f2043d71f07d4252ebb38da3"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-800.avif",
+      "bytes": 32857,
+      "sha256": "82dfe3545a9a3643c7d4b10934575c480d8a9ca58e1849ad500f76d3a4e4541e"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-800.jpg",
+      "bytes": 71329,
+      "sha256": "dd1a195bed91010a66e9c9f08268012e64652441479b0d943faa6a9eee38a3f5"
+    },
+    {
+      "path": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-800.webp",
+      "bytes": 52996,
+      "sha256": "bd03f57f61e5190cb0ef98770a65d30fd3efa6d18c07578c9c7903b178599b11"
+    },
+    {
+      "path": "media/default-og.jpg",
+      "bytes": 33745,
+      "sha256": "816e60dcf08efdfd325828bae3baea9846b6564e096e23757bb7aad63394b30f"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1200.avif",
+      "bytes": 41895,
+      "sha256": "a0df68b2b3cd35f4cc00f544185f9618d44643fb4e11a78cff030fb5414e69cf"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1200.jpg",
+      "bytes": 116786,
+      "sha256": "64c89bc8e734b1b70975bac31453cf0f110342fb4d9c707a08dbc87f04a2e2bf"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1200.webp",
+      "bytes": 63338,
+      "sha256": "ef3fdbf296a5bc57fd6609f08165aa3e493ec722e0ff151f6f6a5afd2dbf5797"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1244.avif",
+      "bytes": 44245,
+      "sha256": "badc36971557a76a5aeb25698d099ba598662b3758b459a6aa769c0b2896d80f"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1244.jpg",
+      "bytes": 124500,
+      "sha256": "9cf2ba05f920561b9ffd2eab36eff01731f09c870c604be5fe51ace0a8425e0d"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1244.webp",
+      "bytes": 66188,
+      "sha256": "0799865c2ec8562cc86c38e07c66d98a914a5ac1e6d75c746c58e6b6f9b956cf"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-480.avif",
+      "bytes": 13641,
+      "sha256": "4696aa7c6310e9f09cd6c32f2a303a12b54d769b6375ca30b9476bda566ad051"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-480.jpg",
+      "bytes": 33613,
+      "sha256": "7bc65d1a955d143f485440ebeca3b6ac37fc9ad7c7fe46b70c32cd35918cafb3"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-480.webp",
+      "bytes": 23092,
+      "sha256": "e6564c16f6ce9da3ff5f3def7b6a6b3e157ef5b09d699419f0f35c757f455f61"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-800.avif",
+      "bytes": 25939,
+      "sha256": "b3e315028d820e88d3134f57b29c8dfca3d2d107cea6fb3f147a65ed8d10ebac"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-800.jpg",
+      "bytes": 67677,
+      "sha256": "f1690877025aa5f736465bc132507ed377c77007daa00362656e7799ddab6403"
+    },
+    {
+      "path": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-800.webp",
+      "bytes": 40384,
+      "sha256": "6834fb9a84ba0048945dc2de358c0e7dda2eb253fd18c1337ca06a4f779aa380"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1200.avif",
+      "bytes": 33459,
+      "sha256": "e674b23406c803495ec20d3737a71d850f1ce01702b627a85d775616f0e29cb1"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1200.jpg",
+      "bytes": 98607,
+      "sha256": "12634f55af993973db6736eaa8999fcaf5fb98d81fa763536ff7eb825abfcaeb"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1200.webp",
+      "bytes": 50314,
+      "sha256": "67aaa6356d9a803a709133c1eac7f2dcb1c6e6d473eb1364ccc38f3e670e38b3"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1238.avif",
+      "bytes": 35376,
+      "sha256": "944297ed24917187cb587eee33bf210c0ac2734091deade12a509f4c0a27b77c"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1238.jpg",
+      "bytes": 104584,
+      "sha256": "0070d06913b5a34cb25574459b4e01360aba25f41d0f720ad6569d038b468e05"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1238.webp",
+      "bytes": 53362,
+      "sha256": "9d09a3b5a9aa179417a1c52cedfd3a1530e98b8e28049267f0f2b4ab9ea4c91a"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-480.avif",
+      "bytes": 10702,
+      "sha256": "0e856cd2e20ec7156a0b76b0437d68bcfc2763c7e00aee7eca233d75e2d24701"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-480.jpg",
+      "bytes": 27474,
+      "sha256": "e05aa1680c398ae9874297f95a1df7a95febf8398803284bfb2a51cdb8fff14d"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-480.webp",
+      "bytes": 18064,
+      "sha256": "07e4dcfed9ef53317f55e0d5818c76a0d5f4692f620e8db775a577920c01de3f"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-800.avif",
+      "bytes": 20383,
+      "sha256": "e75c4ce26eecf6427d4d432e9c908e4ed64d7ede09bf3ed7d11febd6a7613535"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-800.jpg",
+      "bytes": 56468,
+      "sha256": "e7de6eee5f788dc3ecdf1f6f2ad76169fec3b299139aa4b52c69c2e7718709d1"
+    },
+    {
+      "path": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-800.webp",
+      "bytes": 32218,
+      "sha256": "d6e8ade1d7bb2c2c9f59c8f652a208e44e5a20b54fa7c72f0f3848afdd410796"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1200.avif",
+      "bytes": 29857,
+      "sha256": "9c39a4aefcbdf98f2bc4f2b16c9224bbdd7bd6a83619ba73097ca99ab472c668"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1200.jpg",
+      "bytes": 88984,
+      "sha256": "deae305ecfc7312ae6c23c949b29804c68f534eacd11fa4f9b6c839a5cfb8c45"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1200.webp",
+      "bytes": 42316,
+      "sha256": "b76c399cd67f28aa838a044111f54be0e9908897c4ecfdef2a7217a0ee47871c"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1232.avif",
+      "bytes": 30825,
+      "sha256": "564321cf787fdcbd4dcb10e648fbd38a76a2337ed06ae89fb8a37dea2887c255"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1232.jpg",
+      "bytes": 94501,
+      "sha256": "8d6e1dd144921a421c62cb9b9c810aaab31cabef32056ce28ee2838de4b9476b"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1232.webp",
+      "bytes": 44518,
+      "sha256": "77168ca955491b53a7f2e53d1a5d2746193de88d171f3b6942452284352cc37d"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-480.avif",
+      "bytes": 8943,
+      "sha256": "96ae087c121ca2f30332844f4d9df7a4d19bfa6a704ae3559e0857a1d2df28b6"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-480.jpg",
+      "bytes": 23314,
+      "sha256": "d2cbc54477f235e29fa04b219cf9ba54b55c1174d683da2fc1d110c216005308"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-480.webp",
+      "bytes": 14096,
+      "sha256": "5ce4040442531cc946e7caedb04fb63137bf4a40fa7f5235bcad8ed0cbb0e85b"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-800.avif",
+      "bytes": 17986,
+      "sha256": "6a5615f4914a22107db79347d12a6e91e780b3f2d15fca320fa086eefbd2f540"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-800.jpg",
+      "bytes": 49923,
+      "sha256": "1f0b34ca7adf1d4f42ee09052de7fc56d747a79ca2e57654c757ccbddc5cc275"
+    },
+    {
+      "path": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-800.webp",
+      "bytes": 26096,
+      "sha256": "6fcc6957ab54ded520acca45f9845031585ddf26b668b2eb822acd38297421b9"
+    },
+    {
+      "path": "media/manifest.json",
+      "bytes": 38939,
+      "sha256": "e1be3947c0d180a968e009ff759a8e3860bce6054695f20a22738c399d28dbf1"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-1200.avif",
+      "bytes": 67431,
+      "sha256": "b7f090ef18c6e1715c1101e60ea1cc8e50eff83b39ffeb8eea1b4d793f1e9516"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-1200.jpg",
+      "bytes": 158345,
+      "sha256": "257c8e1b7a730bcfd682b38da2318d8f486f8aaf76d280fd34a51f91f2ae70d2"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-1200.webp",
+      "bytes": 107172,
+      "sha256": "25709887df26b5e59e119ea2fdf8597153d169149ca71c7a93d9f24b1fb9a052"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-1212.avif",
+      "bytes": 68724,
+      "sha256": "2f2b16de30c581a9c6d512bc43de795bebd97ffe720e5afb384035fba874f172"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-1212.jpg",
+      "bytes": 158242,
+      "sha256": "77621064abbfdceee3c015674242fcc7b832594f1c1cefd093edaa95204bd05a"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-1212.webp",
+      "bytes": 111348,
+      "sha256": "256a99fa6b8c51d8726ee1a39d70d4cbea8774a56bb00ecd8fc24761121accfc"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-480.avif",
+      "bytes": 16309,
+      "sha256": "dbcc7d34499d2b1999c04228439ea43308fb4ca64b363f0d88c62a1a468bcac6"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-480.jpg",
+      "bytes": 36114,
+      "sha256": "fffa3e72755cc29d52e2dfe225c9642386cb0019a08b6968d7e22e34782c5be2"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-480.webp",
+      "bytes": 29166,
+      "sha256": "013b73527d8506af5c0ed4560477a62f4c13a5392246a5825c400ce397f2be17"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-800.avif",
+      "bytes": 36816,
+      "sha256": "7907f13f3265742c7a8efc1628b18043463e5fba0718a55b1afe12fad3f55649"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-800.jpg",
+      "bytes": 83995,
+      "sha256": "22ba89ed6c8e9a7a09e285409ee1305a4c86e7771a7c1992fbe721a1579c44e4"
+    },
+    {
+      "path": "media/medical-damaged-grounds/medical-damaged-grounds-800.webp",
+      "bytes": 61818,
+      "sha256": "7d8fe337325d8e2d4a3e2d782a9ee1bedac057a4bc74cea4bca76462632702c1"
+    },
+    {
+      "path": "media/medical-responder-interaction/medical-responder-interaction-480.avif",
+      "bytes": 30497,
+      "sha256": "e08ee21f92220eadba60b965e597a2cc120056d4fa5966bbe086a9e0fc0b4701"
+    },
+    {
+      "path": "media/medical-responder-interaction/medical-responder-interaction-480.jpg",
+      "bytes": 71133,
+      "sha256": "71ea09d97d64b1df11dcc7d0e6039e7fb28ff631f853e341c738b1c0ef453fc4"
+    },
+    {
+      "path": "media/medical-responder-interaction/medical-responder-interaction-480.webp",
+      "bytes": 56664,
+      "sha256": "7b097781cd922eee6223d7e1814c9e8c8a45b621cb78b9bfb51078a7fd483af4"
+    },
+    {
+      "path": "media/medical-responder-interaction/medical-responder-interaction-800.avif",
+      "bytes": 58725,
+      "sha256": "8dc4b559b6be09342a0b865e7cd33f9a5c3ef63987b38c5d1351b4c932f19494"
+    },
+    {
+      "path": "media/medical-responder-interaction/medical-responder-interaction-800.jpg",
+      "bytes": 147923,
+      "sha256": "6b95eab417c7e329847c617e964080f9883738902b1efb4b1242da5a3432c027"
+    },
+    {
+      "path": "media/medical-responder-interaction/medical-responder-interaction-800.webp",
+      "bytes": 103818,
+      "sha256": "e62bc9349a58f1f14d486265f7d45bf87127ac7b6e189d2c974935e96e943392"
+    },
+    {
+      "path": "media/medical-responder-interaction/medical-responder-interaction-950.avif",
+      "bytes": 71404,
+      "sha256": "9339429c5dc96087d33c70d2b51ef0e7142bac8a40fb8a555b4b02cbccb14145"
+    },
+    {
+      "path": "media/medical-responder-interaction/medical-responder-interaction-950.jpg",
+      "bytes": 188154,
+      "sha256": "11f4325e585c75d83f6a34658d8f330375d8143220d0fb939e3ba6cc9eb7135a"
+    },
+    {
+      "path": "media/medical-responder-interaction/medical-responder-interaction-950.webp",
+      "bytes": 130256,
+      "sha256": "be4e1b4e08487aec3bf02f9271e82e8b73a7d4796e2dd55e90009b52093405c2"
+    },
+    {
+      "path": "media/public-relations-indoor-team/public-relations-indoor-team-1181.avif",
+      "bytes": 55504,
+      "sha256": "ea8ccb6485dbbb4eaf5fe1c02be5861f71b2a12dc591b9eafbae63b81e5f05c6"
+    },
+    {
+      "path": "media/public-relations-indoor-team/public-relations-indoor-team-1181.jpg",
+      "bytes": 139231,
+      "sha256": "ab850e030b91a8e4055c47af14ec9b179ded90bb86e5052146be1cf616275920"
+    },
+    {
+      "path": "media/public-relations-indoor-team/public-relations-indoor-team-1181.webp",
+      "bytes": 87160,
+      "sha256": "82a17757525d5f1fa576c02ee909ae1f65e8aa053b3664d7aa45ef81f0f9f832"
+    },
+    {
+      "path": "media/public-relations-indoor-team/public-relations-indoor-team-480.avif",
+      "bytes": 15877,
+      "sha256": "d6bb4b6ef006f376e8beb2ec9261b7f3d807e7fe5f9ed32edc20e7639bd2e6fa"
+    },
+    {
+      "path": "media/public-relations-indoor-team/public-relations-indoor-team-480.jpg",
+      "bytes": 36502,
+      "sha256": "a5cd69890e8d0f461570ae5f0633e35af1456e6b7474badd869af2ff232dfc27"
+    },
+    {
+      "path": "media/public-relations-indoor-team/public-relations-indoor-team-480.webp",
+      "bytes": 28098,
+      "sha256": "c87d9463243af02a52cbcc1b9c1bd2df37a0171bf62ef95b3577b0ead73c7089"
+    },
+    {
+      "path": "media/public-relations-indoor-team/public-relations-indoor-team-800.avif",
+      "bytes": 32781,
+      "sha256": "16540cc2cd61405739ac5f686bdbf2ef881470463b24b16c0290c3aae265c5a1"
+    },
+    {
+      "path": "media/public-relations-indoor-team/public-relations-indoor-team-800.jpg",
+      "bytes": 79045,
+      "sha256": "a38f04cc873791135e1ce17fdabcd3584a1f847dd2ce6436a57bb0521d8993db"
+    },
+    {
+      "path": "media/public-relations-indoor-team/public-relations-indoor-team-800.webp",
+      "bytes": 53232,
+      "sha256": "bbc4e9c32d331dd5032abaf4ad2f9071146e8448fa3a5055352bcddbe61fb82d"
+    },
+    {
+      "path": "media/public-relations-operations-workspace/public-relations-operations-workspace-480.avif",
+      "bytes": 16839,
+      "sha256": "e256ba4bfe58e24e8a51e569442ca079a29f8881438279705da1c5b78ad2b2e6"
+    },
+    {
+      "path": "media/public-relations-operations-workspace/public-relations-operations-workspace-480.jpg",
+      "bytes": 41170,
+      "sha256": "0e3f56686e3e5e142c8be4d60b3a7922129f5cbcb153c5696045fd6c1ef9b91d"
+    },
+    {
+      "path": "media/public-relations-operations-workspace/public-relations-operations-workspace-480.webp",
+      "bytes": 23654,
+      "sha256": "d0dba11468056aba1ac2bff843e7804e38c4aceb217087858793d97888a5da02"
+    },
+    {
+      "path": "media/public-relations-operations-workspace/public-relations-operations-workspace-800.avif",
+      "bytes": 31107,
+      "sha256": "5d05bfa0cb9f3697060fbf6198ef7717d681e27470fa863b7d2551c6ae1175b4"
+    },
+    {
+      "path": "media/public-relations-operations-workspace/public-relations-operations-workspace-800.jpg",
+      "bytes": 85008,
+      "sha256": "825aebe0b5f0dcea7bf33d6a1b9173e1b46ee594831742f3002abdc4348b3cbf"
+    },
+    {
+      "path": "media/public-relations-operations-workspace/public-relations-operations-workspace-800.webp",
+      "bytes": 44000,
+      "sha256": "7776bca4e51ec784352dd8796637c9b005b670d532a79ebd9b2f9bde8a6154ee"
+    },
+    {
+      "path": "media/public-relations-operations-workspace/public-relations-operations-workspace-822.avif",
+      "bytes": 32313,
+      "sha256": "1d456c7e9323215d8faef219f48e2ecada58ca785328fa108d68bb2e6868cd4d"
+    },
+    {
+      "path": "media/public-relations-operations-workspace/public-relations-operations-workspace-822.jpg",
+      "bytes": 90456,
+      "sha256": "b35f23cf706490931b29624e313c8b106e890ad0648d0d28e1a56522a5cac7f4"
+    },
+    {
+      "path": "media/public-relations-operations-workspace/public-relations-operations-workspace-822.webp",
+      "bytes": 46200,
+      "sha256": "ec1239fd7bfce86a00a2d13253f24e18a54dd7883b43d46eadc48ef15821b427"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-1200.avif",
+      "bytes": 72845,
+      "sha256": "e17d38fd8fe4e31ea8d72276f6f3ef4f0e8874cd4d202e92956a483528d541ee"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-1200.jpg",
+      "bytes": 184721,
+      "sha256": "cefe4970874a69de4b7ae4a5a59dad222b0fef015a35d27b98f7a67fee18fc92"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-1200.webp",
+      "bytes": 126500,
+      "sha256": "eb4dda05a35213b3f8e1b2bb38c7250648fecf07a4f9c336e469170e83d5f2c8"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-1204.avif",
+      "bytes": 73603,
+      "sha256": "1935a1c34647545d553bb680c9e7e36a39a9c5dfe2874a62671e66382977e0dc"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-1204.jpg",
+      "bytes": 185127,
+      "sha256": "0162c79624d7f9677ce7443ebbe72ae0c30799d5f8db1ea64ee7db04adda871e"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-1204.webp",
+      "bytes": 130658,
+      "sha256": "4072c7c827f3397992da162f1e551d7345e5a3a9f5f12210e2d4ffd2b566b084"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-480.avif",
+      "bytes": 20323,
+      "sha256": "d6aac8b522beaffe990ca727979ace85bb2c1a242f79a32f1d03bb09089f9427"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-480.jpg",
+      "bytes": 45232,
+      "sha256": "15be45d703adfb88014c4874e2759cb0fded263eacf223e35d910b9ed64c686d"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-480.webp",
+      "bytes": 40324,
+      "sha256": "b677c69eb3de565be16c730ceb362d3a87f09c30752e39f2ded7f1e9a2129ee0"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-800.avif",
+      "bytes": 43264,
+      "sha256": "2250013519961b49ab97383badbcb29351e313f5994b810c89d6ba78a3b6532d"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-800.jpg",
+      "bytes": 102373,
+      "sha256": "ce70b063dfc42f8765890e9ec724a95ffd3999c209d68c628c511b7589bfc4ef"
+    },
+    {
+      "path": "media/public-relations-outdoor-team/public-relations-outdoor-team-800.webp",
+      "bytes": 78966,
+      "sha256": "ffc80cbb228873debbbfbb56cdd27f34d86ffa074c9a8eba2f1572d92ef2a024"
+    },
+    {
+      "path": "qr/givebutter.svg",
+      "bytes": 1838,
+      "sha256": "43145ae4f7f268ba6b100c6ad5a9591dfc5b42b590f6970612af6b0461b3c36b"
+    },
+    {
+      "path": "qr/website.svg",
+      "bytes": 1818,
+      "sha256": "7314bb640a64f53f1163eed841f53a21737f734059bd368f61ee99a8136d4a9d"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 113,
+      "sha256": "d443e0c817a58641ac5d9615c8aecf592246cafb7db9eac2c6165ead971c87b1"
+    },
+    {
+      "path": "sections/_.data",
+      "bytes": 8525,
+      "sha256": "3cc387739ca8316f27a9c4b80d56bf42622fa33bba0a409c016f59f5b93d417d"
+    },
+    {
+      "path": "sections/aviation/_.data",
+      "bytes": 14900,
+      "sha256": "38fec9f36c069470b720ab83380987b970614720382ab993cfddac2afc4e8fc8"
+    },
+    {
+      "path": "sections/aviation/index.html",
+      "bytes": 38492,
+      "sha256": "1fcb6fbefc6a166c4b59573b11d18a0c3221cfe3294ededdb30e4b25dfba4557"
+    },
+    {
+      "path": "sections/aviation.data",
+      "bytes": 14900,
+      "sha256": "38fec9f36c069470b720ab83380987b970614720382ab993cfddac2afc4e8fc8"
+    },
+    {
+      "path": "sections/command-and-control/_.data",
+      "bytes": 14348,
+      "sha256": "c0110929ab3deab37400ea6c6783d9daab8fc1d5bea23867af1f6dbb5f2b5af0"
+    },
+    {
+      "path": "sections/command-and-control/index.html",
+      "bytes": 37816,
+      "sha256": "d49987186ee0aeed2dedf9fcbcfcd22b63176de533ab601a43112d3a093858e5"
+    },
+    {
+      "path": "sections/command-and-control.data",
+      "bytes": 14348,
+      "sha256": "c0110929ab3deab37400ea6c6783d9daab8fc1d5bea23867af1f6dbb5f2b5af0"
+    },
+    {
+      "path": "sections/crisis-intelligence-management/_.data",
+      "bytes": 12297,
+      "sha256": "b36b23abfd679aa3484d2f38cb5f4ad973548ab29d649424012ea241c67e85ee"
+    },
+    {
+      "path": "sections/crisis-intelligence-management/index.html",
+      "bytes": 33437,
+      "sha256": "86d07a9f5e38816da6eda1d3b30384d150528c5aeb9fcea59be77477270b5e66"
+    },
+    {
+      "path": "sections/crisis-intelligence-management.data",
+      "bytes": 12297,
+      "sha256": "b36b23abfd679aa3484d2f38cb5f4ad973548ab29d649424012ea241c67e85ee"
+    },
+    {
+      "path": "sections/index.html",
+      "bytes": 24472,
+      "sha256": "1e57c875872777d3639c48f55e3a7f82a27bd8d5430b39f624e4f2c6932054d2"
+    },
+    {
+      "path": "sections/logistics/_.data",
+      "bytes": 14917,
+      "sha256": "d8400e8828df4172b74204b12aee347e2c5361ff8413fc90b30e6d5f06eea499"
+    },
+    {
+      "path": "sections/logistics/index.html",
+      "bytes": 38628,
+      "sha256": "9850c2bd5840e8d51924b8a7ebeac52b73c8368bb1058779c4f865e93a90e890"
+    },
+    {
+      "path": "sections/logistics.data",
+      "bytes": 14917,
+      "sha256": "d8400e8828df4172b74204b12aee347e2c5361ff8413fc90b30e6d5f06eea499"
+    },
+    {
+      "path": "sections/medical/_.data",
+      "bytes": 11705,
+      "sha256": "45d27f4102ed5687eea1a15caea564d3b17c5ce8548e2a6d30f413a631021259"
+    },
+    {
+      "path": "sections/medical/index.html",
+      "bytes": 32185,
+      "sha256": "01300b9856ed4148607b7d478bb7e6edd7149b0703c2ddccd1ac33d41c36e758"
+    },
+    {
+      "path": "sections/medical.data",
+      "bytes": 11705,
+      "sha256": "45d27f4102ed5687eea1a15caea564d3b17c5ce8548e2a6d30f413a631021259"
+    },
+    {
+      "path": "sections/public-relations/_.data",
+      "bytes": 12972,
+      "sha256": "b828617859a63b23f839e80864420512bec67bc9edcf5fd1774fed87980512dd"
+    },
+    {
+      "path": "sections/public-relations/index.html",
+      "bytes": 35410,
+      "sha256": "4779152c1d7df3e3658ce8139e4ba998a8b033c7cc658e4509c025fe36bc3e1b"
+    },
+    {
+      "path": "sections/public-relations.data",
+      "bytes": 12972,
+      "sha256": "b828617859a63b23f839e80864420512bec67bc9edcf5fd1774fed87980512dd"
+    },
+    {
+      "path": "sections.data",
+      "bytes": 8525,
+      "sha256": "3cc387739ca8316f27a9c4b80d56bf42622fa33bba0a409c016f59f5b93d417d"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 1301,
+      "sha256": "00f7396bf5744221dc46fc3577547078cd656f2304da64e55be786353ee97bef"
+    }
+  ],
+  "note": "build-manifest.json is intentionally excluded from its own file inventory."
+}

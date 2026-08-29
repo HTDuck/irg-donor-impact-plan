@@ -1,0 +1,1187 @@
+{
+  "schemaVersion": 1,
+  "generator": "scripts/prepare-assets.mjs",
+  "formats": [
+    "avif",
+    "webp",
+    "jpeg"
+  ],
+  "brand": {
+    "mark": "brand/irg-mark.svg",
+    "horizontalLogo": "brand/irg-logo-horizontal.svg",
+    "defaultOpenGraphImage": "media/default-og.jpg"
+  },
+  "qrCodes": [
+    {
+      "id": "website",
+      "payload": "https://qr.generatorqr.com/4Mc2eTHbV",
+      "path": "qr/website.svg",
+      "alt": "QR code for the Integrated Response Group website"
+    },
+    {
+      "id": "givebutter",
+      "payload": "https://qr.generatorqr.com/4MeNpLjVV",
+      "path": "qr/givebutter.svg",
+      "alt": "QR code for the IRG donation page"
+    }
+  ],
+  "photos": [
+    {
+      "id": "photo-13",
+      "slug": "public-relations-outdoor-team",
+      "section": "public-relations",
+      "alt": "Four adults stand together outside a brick building.",
+      "width": 1204,
+      "height": 899,
+      "aspectRatio": 1.339266,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-480.avif",
+            "width": 480,
+            "height": 358
+          },
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-800.avif",
+            "width": 800,
+            "height": 597
+          },
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-1200.avif",
+            "width": 1200,
+            "height": 896
+          },
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-1204.avif",
+            "width": 1204,
+            "height": 899
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-480.webp",
+            "width": 480,
+            "height": 358
+          },
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-800.webp",
+            "width": 800,
+            "height": 597
+          },
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-1200.webp",
+            "width": 1200,
+            "height": 896
+          },
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-1204.webp",
+            "width": 1204,
+            "height": 899
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-480.jpg",
+            "width": 480,
+            "height": 358
+          },
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-800.jpg",
+            "width": 800,
+            "height": 597
+          },
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-1200.jpg",
+            "width": 1200,
+            "height": 896
+          },
+          {
+            "src": "media/public-relations-outdoor-team/public-relations-outdoor-team-1204.jpg",
+            "width": 1204,
+            "height": 899
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-12",
+      "slug": "public-relations-operations-workspace",
+      "section": "public-relations",
+      "alt": "Two adults stand in a workspace beside maps and posted notices.",
+      "width": 822,
+      "height": 1280,
+      "aspectRatio": 0.642188,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/public-relations-operations-workspace/public-relations-operations-workspace-480.avif",
+            "width": 480,
+            "height": 747
+          },
+          {
+            "src": "media/public-relations-operations-workspace/public-relations-operations-workspace-800.avif",
+            "width": 800,
+            "height": 1246
+          },
+          {
+            "src": "media/public-relations-operations-workspace/public-relations-operations-workspace-822.avif",
+            "width": 822,
+            "height": 1280
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/public-relations-operations-workspace/public-relations-operations-workspace-480.webp",
+            "width": 480,
+            "height": 747
+          },
+          {
+            "src": "media/public-relations-operations-workspace/public-relations-operations-workspace-800.webp",
+            "width": 800,
+            "height": 1246
+          },
+          {
+            "src": "media/public-relations-operations-workspace/public-relations-operations-workspace-822.webp",
+            "width": 822,
+            "height": 1280
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/public-relations-operations-workspace/public-relations-operations-workspace-480.jpg",
+            "width": 480,
+            "height": 747
+          },
+          {
+            "src": "media/public-relations-operations-workspace/public-relations-operations-workspace-800.jpg",
+            "width": 800,
+            "height": 1246
+          },
+          {
+            "src": "media/public-relations-operations-workspace/public-relations-operations-workspace-822.jpg",
+            "width": 822,
+            "height": 1280
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-11",
+      "slug": "public-relations-indoor-team",
+      "section": "public-relations",
+      "alt": "Four adults stand together inside a busy facility.",
+      "width": 1181,
+      "height": 884,
+      "aspectRatio": 1.335973,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/public-relations-indoor-team/public-relations-indoor-team-480.avif",
+            "width": 480,
+            "height": 359
+          },
+          {
+            "src": "media/public-relations-indoor-team/public-relations-indoor-team-800.avif",
+            "width": 800,
+            "height": 599
+          },
+          {
+            "src": "media/public-relations-indoor-team/public-relations-indoor-team-1181.avif",
+            "width": 1181,
+            "height": 884
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/public-relations-indoor-team/public-relations-indoor-team-480.webp",
+            "width": 480,
+            "height": 359
+          },
+          {
+            "src": "media/public-relations-indoor-team/public-relations-indoor-team-800.webp",
+            "width": 800,
+            "height": 599
+          },
+          {
+            "src": "media/public-relations-indoor-team/public-relations-indoor-team-1181.webp",
+            "width": 1181,
+            "height": 884
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/public-relations-indoor-team/public-relations-indoor-team-480.jpg",
+            "width": 480,
+            "height": 359
+          },
+          {
+            "src": "media/public-relations-indoor-team/public-relations-indoor-team-800.jpg",
+            "width": 800,
+            "height": 599
+          },
+          {
+            "src": "media/public-relations-indoor-team/public-relations-indoor-team-1181.jpg",
+            "width": 1181,
+            "height": 884
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-16",
+      "slug": "aviation-helicopter-equipment-transfer",
+      "section": "aviation",
+      "alt": "People move equipment cases beside a pickup truck and a U.S. Army helicopter.",
+      "width": 1244,
+      "height": 921,
+      "aspectRatio": 1.350706,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-480.avif",
+            "width": 480,
+            "height": 355
+          },
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-800.avif",
+            "width": 800,
+            "height": 592
+          },
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1200.avif",
+            "width": 1200,
+            "height": 888
+          },
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1244.avif",
+            "width": 1244,
+            "height": 921
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-480.webp",
+            "width": 480,
+            "height": 355
+          },
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-800.webp",
+            "width": 800,
+            "height": 592
+          },
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1200.webp",
+            "width": 1200,
+            "height": 888
+          },
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1244.webp",
+            "width": 1244,
+            "height": 921
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-480.jpg",
+            "width": 480,
+            "height": 355
+          },
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-800.jpg",
+            "width": 800,
+            "height": 592
+          },
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1200.jpg",
+            "width": 1200,
+            "height": 888
+          },
+          {
+            "src": "media/aviation-helicopter-equipment-transfer/aviation-helicopter-equipment-transfer-1244.jpg",
+            "width": 1244,
+            "height": 921
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-15",
+      "slug": "aviation-erosion-assessment",
+      "section": "aviation",
+      "alt": "Erosion and rubble interrupt the ground below utility lines and a wooded slope.",
+      "width": 1222,
+      "height": 971,
+      "aspectRatio": 1.258496,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-480.avif",
+            "width": 480,
+            "height": 381
+          },
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-800.avif",
+            "width": 800,
+            "height": 636
+          },
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-1200.avif",
+            "width": 1200,
+            "height": 954
+          },
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-1222.avif",
+            "width": 1222,
+            "height": 971
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-480.webp",
+            "width": 480,
+            "height": 381
+          },
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-800.webp",
+            "width": 800,
+            "height": 636
+          },
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-1200.webp",
+            "width": 1200,
+            "height": 954
+          },
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-1222.webp",
+            "width": 1222,
+            "height": 971
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-480.jpg",
+            "width": 480,
+            "height": 381
+          },
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-800.jpg",
+            "width": 800,
+            "height": 636
+          },
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-1200.jpg",
+            "width": 1200,
+            "height": 954
+          },
+          {
+            "src": "media/aviation-erosion-assessment/aviation-erosion-assessment-1222.jpg",
+            "width": 1222,
+            "height": 971
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-14",
+      "slug": "aviation-coastal-damage-assessment",
+      "section": "aviation",
+      "alt": "Aerial view of extensive damage across a coastal community beside the shoreline.",
+      "width": 1208,
+      "height": 958,
+      "aspectRatio": 1.26096,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-480.avif",
+            "width": 480,
+            "height": 381
+          },
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-800.avif",
+            "width": 800,
+            "height": 634
+          },
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1200.avif",
+            "width": 1200,
+            "height": 952
+          },
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1208.avif",
+            "width": 1208,
+            "height": 958
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-480.webp",
+            "width": 480,
+            "height": 381
+          },
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-800.webp",
+            "width": 800,
+            "height": 634
+          },
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1200.webp",
+            "width": 1200,
+            "height": 952
+          },
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1208.webp",
+            "width": 1208,
+            "height": 958
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-480.jpg",
+            "width": 480,
+            "height": 381
+          },
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-800.jpg",
+            "width": 800,
+            "height": 634
+          },
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1200.jpg",
+            "width": 1200,
+            "height": 952
+          },
+          {
+            "src": "media/aviation-coastal-damage-assessment/aviation-coastal-damage-assessment-1208.jpg",
+            "width": 1208,
+            "height": 958
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-19",
+      "slug": "logistics-aircraft-supply-transfer",
+      "section": "logistics",
+      "alt": "A group moves boxes and packaged supplies beside a truck and passenger aircraft.",
+      "width": 1244,
+      "height": 954,
+      "aspectRatio": 1.303983,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-480.avif",
+            "width": 480,
+            "height": 368
+          },
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-800.avif",
+            "width": 800,
+            "height": 614
+          },
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1200.avif",
+            "width": 1200,
+            "height": 920
+          },
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1244.avif",
+            "width": 1244,
+            "height": 954
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-480.webp",
+            "width": 480,
+            "height": 368
+          },
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-800.webp",
+            "width": 800,
+            "height": 614
+          },
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1200.webp",
+            "width": 1200,
+            "height": 920
+          },
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1244.webp",
+            "width": 1244,
+            "height": 954
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-480.jpg",
+            "width": 480,
+            "height": 368
+          },
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-800.jpg",
+            "width": 800,
+            "height": 614
+          },
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1200.jpg",
+            "width": 1200,
+            "height": 920
+          },
+          {
+            "src": "media/logistics-aircraft-supply-transfer/logistics-aircraft-supply-transfer-1244.jpg",
+            "width": 1244,
+            "height": 954
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-18",
+      "slug": "logistics-small-aircraft-supplies",
+      "section": "logistics",
+      "alt": "People move boxes and supplies beside a small twin-engine aircraft.",
+      "width": 1238,
+      "height": 924,
+      "aspectRatio": 1.339827,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-480.avif",
+            "width": 480,
+            "height": 358
+          },
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-800.avif",
+            "width": 800,
+            "height": 597
+          },
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1200.avif",
+            "width": 1200,
+            "height": 896
+          },
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1238.avif",
+            "width": 1238,
+            "height": 924
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-480.webp",
+            "width": 480,
+            "height": 358
+          },
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-800.webp",
+            "width": 800,
+            "height": 597
+          },
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1200.webp",
+            "width": 1200,
+            "height": 896
+          },
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1238.webp",
+            "width": 1238,
+            "height": 924
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-480.jpg",
+            "width": 480,
+            "height": 358
+          },
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-800.jpg",
+            "width": 800,
+            "height": 597
+          },
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1200.jpg",
+            "width": 1200,
+            "height": 896
+          },
+          {
+            "src": "media/logistics-small-aircraft-supplies/logistics-small-aircraft-supplies-1238.jpg",
+            "width": 1238,
+            "height": 924
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-17",
+      "slug": "logistics-utility-aircraft-loading",
+      "section": "logistics",
+      "alt": "People and a forklift work beside the open cargo door of a small utility aircraft.",
+      "width": 1232,
+      "height": 918,
+      "aspectRatio": 1.342048,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-480.avif",
+            "width": 480,
+            "height": 358
+          },
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-800.avif",
+            "width": 800,
+            "height": 596
+          },
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1200.avif",
+            "width": 1200,
+            "height": 894
+          },
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1232.avif",
+            "width": 1232,
+            "height": 918
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-480.webp",
+            "width": 480,
+            "height": 358
+          },
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-800.webp",
+            "width": 800,
+            "height": 596
+          },
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1200.webp",
+            "width": 1200,
+            "height": 894
+          },
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1232.webp",
+            "width": 1232,
+            "height": 918
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-480.jpg",
+            "width": 480,
+            "height": 358
+          },
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-800.jpg",
+            "width": 800,
+            "height": 596
+          },
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1200.jpg",
+            "width": 1200,
+            "height": 894
+          },
+          {
+            "src": "media/logistics-utility-aircraft-loading/logistics-utility-aircraft-loading-1232.jpg",
+            "width": 1232,
+            "height": 918
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-24",
+      "slug": "medical-responder-interaction",
+      "section": "medical",
+      "alt": "A person provides an item to a seated person wearing a protective face covering.",
+      "width": 950,
+      "height": 1247,
+      "aspectRatio": 0.761828,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/medical-responder-interaction/medical-responder-interaction-480.avif",
+            "width": 480,
+            "height": 630
+          },
+          {
+            "src": "media/medical-responder-interaction/medical-responder-interaction-800.avif",
+            "width": 800,
+            "height": 1050
+          },
+          {
+            "src": "media/medical-responder-interaction/medical-responder-interaction-950.avif",
+            "width": 950,
+            "height": 1247
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/medical-responder-interaction/medical-responder-interaction-480.webp",
+            "width": 480,
+            "height": 630
+          },
+          {
+            "src": "media/medical-responder-interaction/medical-responder-interaction-800.webp",
+            "width": 800,
+            "height": 1050
+          },
+          {
+            "src": "media/medical-responder-interaction/medical-responder-interaction-950.webp",
+            "width": 950,
+            "height": 1247
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/medical-responder-interaction/medical-responder-interaction-480.jpg",
+            "width": 480,
+            "height": 630
+          },
+          {
+            "src": "media/medical-responder-interaction/medical-responder-interaction-800.jpg",
+            "width": 800,
+            "height": 1050
+          },
+          {
+            "src": "media/medical-responder-interaction/medical-responder-interaction-950.jpg",
+            "width": 950,
+            "height": 1247
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-20",
+      "slug": "medical-damaged-grounds",
+      "section": "medical",
+      "alt": "Storm-damaged grounds surround a light-colored building displaying a Bahamas flag.",
+      "width": 1212,
+      "height": 890,
+      "aspectRatio": 1.361798,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-480.avif",
+            "width": 480,
+            "height": 352
+          },
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-800.avif",
+            "width": 800,
+            "height": 587
+          },
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-1200.avif",
+            "width": 1200,
+            "height": 881
+          },
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-1212.avif",
+            "width": 1212,
+            "height": 890
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-480.webp",
+            "width": 480,
+            "height": 352
+          },
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-800.webp",
+            "width": 800,
+            "height": 587
+          },
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-1200.webp",
+            "width": 1200,
+            "height": 881
+          },
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-1212.webp",
+            "width": 1212,
+            "height": 890
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-480.jpg",
+            "width": 480,
+            "height": 352
+          },
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-800.jpg",
+            "width": 800,
+            "height": 587
+          },
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-1200.jpg",
+            "width": 1200,
+            "height": 881
+          },
+          {
+            "src": "media/medical-damaged-grounds/medical-damaged-grounds-1212.jpg",
+            "width": 1212,
+            "height": 890
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-26",
+      "slug": "crisis-intelligence-damaged-homes",
+      "section": "crisis-intelligence-management",
+      "alt": "Homes and outbuildings stand amid extensive mud, debris, and structural damage.",
+      "width": 1184,
+      "height": 826,
+      "aspectRatio": 1.433414,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-480.avif",
+            "width": 480,
+            "height": 335
+          },
+          {
+            "src": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-800.avif",
+            "width": 800,
+            "height": 558
+          },
+          {
+            "src": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-1184.avif",
+            "width": 1184,
+            "height": 826
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-480.webp",
+            "width": 480,
+            "height": 335
+          },
+          {
+            "src": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-800.webp",
+            "width": 800,
+            "height": 558
+          },
+          {
+            "src": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-1184.webp",
+            "width": 1184,
+            "height": 826
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-480.jpg",
+            "width": 480,
+            "height": 335
+          },
+          {
+            "src": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-800.jpg",
+            "width": 800,
+            "height": 558
+          },
+          {
+            "src": "media/crisis-intelligence-damaged-homes/crisis-intelligence-damaged-homes-1184.jpg",
+            "width": 1184,
+            "height": 826
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-25",
+      "slug": "crisis-intelligence-road-collapse",
+      "section": "crisis-intelligence-management",
+      "alt": "A collapsed two-lane road runs beside a river and a nearby house.",
+      "width": 1270,
+      "height": 829,
+      "aspectRatio": 1.531966,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-480.avif",
+            "width": 480,
+            "height": 313
+          },
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-800.avif",
+            "width": 800,
+            "height": 522
+          },
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1200.avif",
+            "width": 1200,
+            "height": 783
+          },
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1270.avif",
+            "width": 1270,
+            "height": 829
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-480.webp",
+            "width": 480,
+            "height": 313
+          },
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-800.webp",
+            "width": 800,
+            "height": 522
+          },
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1200.webp",
+            "width": 1200,
+            "height": 783
+          },
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1270.webp",
+            "width": 1270,
+            "height": 829
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-480.jpg",
+            "width": 480,
+            "height": 313
+          },
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-800.jpg",
+            "width": 800,
+            "height": 522
+          },
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1200.jpg",
+            "width": 1200,
+            "height": 783
+          },
+          {
+            "src": "media/crisis-intelligence-road-collapse/crisis-intelligence-road-collapse-1270.jpg",
+            "width": 1270,
+            "height": 829
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-22",
+      "slug": "command-control-operational-briefing",
+      "section": "command-and-control",
+      "alt": "A large group gathers around tables for an indoor briefing.",
+      "width": 1280,
+      "height": 945,
+      "aspectRatio": 1.354497,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-480.avif",
+            "width": 480,
+            "height": 354
+          },
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-800.avif",
+            "width": 800,
+            "height": 591
+          },
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-1200.avif",
+            "width": 1200,
+            "height": 886
+          },
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-1280.avif",
+            "width": 1280,
+            "height": 945
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-480.webp",
+            "width": 480,
+            "height": 354
+          },
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-800.webp",
+            "width": 800,
+            "height": 591
+          },
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-1200.webp",
+            "width": 1200,
+            "height": 886
+          },
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-1280.webp",
+            "width": 1280,
+            "height": 945
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-480.jpg",
+            "width": 480,
+            "height": 354
+          },
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-800.jpg",
+            "width": 800,
+            "height": 591
+          },
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-1200.jpg",
+            "width": 1200,
+            "height": 886
+          },
+          {
+            "src": "media/command-control-operational-briefing/command-control-operational-briefing-1280.jpg",
+            "width": 1280,
+            "height": 945
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-23",
+      "slug": "command-control-coordination-room",
+      "section": "command-and-control",
+      "alt": "A group works around a conference table during a briefing.",
+      "width": 1226,
+      "height": 1000,
+      "aspectRatio": 1.226,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-480.avif",
+            "width": 480,
+            "height": 392
+          },
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-800.avif",
+            "width": 800,
+            "height": 653
+          },
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-1200.avif",
+            "width": 1200,
+            "height": 979
+          },
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-1226.avif",
+            "width": 1226,
+            "height": 1000
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-480.webp",
+            "width": 480,
+            "height": 392
+          },
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-800.webp",
+            "width": 800,
+            "height": 653
+          },
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-1200.webp",
+            "width": 1200,
+            "height": 979
+          },
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-1226.webp",
+            "width": 1226,
+            "height": 1000
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-480.jpg",
+            "width": 480,
+            "height": 392
+          },
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-800.jpg",
+            "width": 800,
+            "height": 653
+          },
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-1200.jpg",
+            "width": 1200,
+            "height": 979
+          },
+          {
+            "src": "media/command-control-coordination-room/command-control-coordination-room-1226.jpg",
+            "width": 1226,
+            "height": 1000
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-21",
+      "slug": "command-control-canopy-gathering",
+      "section": "command-and-control",
+      "alt": "People gather around tables under a canopy.",
+      "width": 1169,
+      "height": 893,
+      "aspectRatio": 1.309071,
+      "sources": {
+        "avif": [
+          {
+            "src": "media/command-control-canopy-gathering/command-control-canopy-gathering-480.avif",
+            "width": 480,
+            "height": 367
+          },
+          {
+            "src": "media/command-control-canopy-gathering/command-control-canopy-gathering-800.avif",
+            "width": 800,
+            "height": 611
+          },
+          {
+            "src": "media/command-control-canopy-gathering/command-control-canopy-gathering-1169.avif",
+            "width": 1169,
+            "height": 893
+          }
+        ],
+        "webp": [
+          {
+            "src": "media/command-control-canopy-gathering/command-control-canopy-gathering-480.webp",
+            "width": 480,
+            "height": 367
+          },
+          {
+            "src": "media/command-control-canopy-gathering/command-control-canopy-gathering-800.webp",
+            "width": 800,
+            "height": 611
+          },
+          {
+            "src": "media/command-control-canopy-gathering/command-control-canopy-gathering-1169.webp",
+            "width": 1169,
+            "height": 893
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "media/command-control-canopy-gathering/command-control-canopy-gathering-480.jpg",
+            "width": 480,
+            "height": 367
+          },
+          {
+            "src": "media/command-control-canopy-gathering/command-control-canopy-gathering-800.jpg",
+            "width": 800,
+            "height": 611
+          },
+          {
+            "src": "media/command-control-canopy-gathering/command-control-canopy-gathering-1169.jpg",
+            "width": 1169,
+            "height": 893
+          }
+        ]
+      }
+    }
+  ]
+}

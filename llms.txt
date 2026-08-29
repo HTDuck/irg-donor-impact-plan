@@ -1,0 +1,32 @@
+# Integrated Response Group: Donor Impact Plan
+
+> This Donor Impact Plan provides a transparent, section-by-section breakdown of exactly where your contribution goes.
+
+Subtitle: Operational Funding Guide
+
+Published: 2026-08-28
+
+## Public pages
+
+- [Donor Impact Plan](https://htduck.github.io/irg-donor-impact-plan/): This Donor Impact Plan provides a transparent, section-by-section breakdown of exactly where your contribution goes.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/index.md)
+- [Executive Summary](https://htduck.github.io/irg-donor-impact-plan/executive-summary/): Integrated Response Group is a veteran-founded 501(c)(3) nonprofit that deploys structured, military-grade disaster response across six integrated operational sections.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/executive-summary.md)
+- [How to Give](https://htduck.github.io/irg-donor-impact-plan/give/): All donations to Integrated Response Group are tax-deductible to the fullest extent allowed by law.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/give.md)
+- [Operational Sections](https://htduck.github.io/irg-donor-impact-plan/sections/): Command and Control, Crisis Intelligence Management, Medical, Logistics, Aviation, and Public Relations.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/sections.md)
+- [Aviation](https://htduck.github.io/irg-donor-impact-plan/sections/aviation/): Coordinated aerial operations, UAS missions, and manned aircraft support.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/sections/aviation.md)
+- [Command & Control](https://htduck.github.io/irg-donor-impact-plan/sections/command-and-control/): Satellite comms, digital command infrastructure, and real-time situational awareness.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/sections/command-and-control.md)
+- [Crisis Intelligence](https://htduck.github.io/irg-donor-impact-plan/sections/crisis-intelligence-management/): Rapid needs assessments, GIS mapping, and situation reporting.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/sections/crisis-intelligence-management.md)
+- [Logistics](https://htduck.github.io/irg-donor-impact-plan/sections/logistics/): Supply chain management, transport coordination, and coalition integration.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/sections/logistics.md)
+- [Medical](https://htduck.github.io/irg-donor-impact-plan/sections/medical/): Forward triage, field trauma care, and coordination with first responders.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/sections/medical.md)
+- [Public Relations](https://htduck.github.io/irg-donor-impact-plan/sections/public-relations/): Public affairs, donor relations, media strategy, and community outreach.
+  - [Markdown](https://htduck.github.io/irg-donor-impact-plan/markdown/sections/public-relations.md)
+
+The complete semantic HTML pages above are authoritative; Markdown files are supplemental representations.

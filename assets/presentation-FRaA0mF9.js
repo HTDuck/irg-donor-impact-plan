@@ -1,0 +1,1 @@
+function e(e){return{"--accent":`var(--${e})`}}function t(e){return new Intl.DateTimeFormat(`en-US`,{day:`numeric`,month:`long`,timeZone:`UTC`,year:`numeric`}).format(new Date(`${e}T00:00:00Z`))}export{t as n,e as t};

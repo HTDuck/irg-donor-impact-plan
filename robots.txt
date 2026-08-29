@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /irg-donor-impact-plan/
+Sitemap: https://htduck.github.io/irg-donor-impact-plan/sitemap.xml
